@@ -43,3 +43,5 @@ elif x > 1:
         print(x, "is a prime number")
 else:
     print("Invalid Number")
+    
+# Git Conflict Check
