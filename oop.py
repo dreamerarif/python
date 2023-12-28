@@ -27,7 +27,8 @@ bob= Employee("Bob Mccoy", 27, "Developer", 2004, 20000)
 
 #john.age1 = 32
 
-print(john.name1, "is a", john.designation1)
+#print(john.name1, "is a", john.designation1)
+
 
 john.promote("Director")
 print(john.name1, "is a", john.designation1)
