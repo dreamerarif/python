@@ -43,3 +43,13 @@ elif x > 1:
         print(x, "is a prime number")
 else:
     print("Invalid Number")
+ 
+# Git Conflict Check
+#This is primnumber finder
+#Problem
+#Conflict resolved
+# Another comment
+#Conflict vs Merge
+#Report
+#Already up to date
+#Change from Kaiser
