@@ -26,3 +26,7 @@ elif num > 1:
        continue;
      print(i)  
      i=i+1
+     
+  
+  #else is not a prime number
+  #no space
